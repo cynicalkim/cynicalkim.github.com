@@ -1,0 +1,30 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: cynicalkim
+email: mandubos@naver.com
+description: > # this means to ignore newlines until "baseurl:"
+  먹고살기 위해서 노력해야 함을.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://cynicalkim.github.io/" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  cynicalkim
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+# GitHub Defaults
+lsi: false
+safe: true
+
+# UTF-8 & parse errors fix
+#markdown: redcarpet
+
+encoding: utf-8
